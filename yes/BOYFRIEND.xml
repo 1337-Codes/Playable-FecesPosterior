@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BoyFriend_Assets.png">
+<SubTexture name="BF Dead Loop0000" x="0" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF Dead confirm0000" x="804" y="1208" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE DOWN0000" x="1608" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE DOWN MISS0000" x="0" y="604" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE LEFT0000" x="1608" y="604" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE LEFT MISS0000" x="0" y="1208" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE RIGHT0000" x="1608" y="1208" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE RIGHT MISS0000" x="0" y="1812" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE UP0000" x="804" y="1812" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF NOTE UP MISS0000" x="1608" y="1812" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="BF idle dance0000" x="804" y="604" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="boyfriend dodge0000" x="804" y="0" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+</TextureAtlas>
